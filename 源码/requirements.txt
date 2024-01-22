@@ -1,0 +1,5 @@
+aiomysql==0.2.0
+sqlalchemy==1.4.48
+sanic==23.3.0
+sanic_jinja2==2022.11.11
+requests
