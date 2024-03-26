@@ -11,8 +11,8 @@ class config(Enum):
 
     """GEETEST"""
     GEETEST_SERVER = 'http://gcaptcha4.geetest.com'
-    GEETEST_ID = '34a2a016d2ae872fbf4a5b2e89292a4f'
-    GEETEST_KEY = '997d59c8279b1d6dbdf9ff4eed1ff4a6'
+    GEETEST_ID = '123'
+    GEETEST_KEY = '123'
     GEETEST_CAPTCHA_URL = f'{GEETEST_SERVER}/validate?captcha_id={GEETEST_ID}'
 
     """SYSTEM"""
